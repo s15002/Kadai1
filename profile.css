@@ -17,4 +17,9 @@ th {
     font-style:italic;
     text-align:right;
     vertical-align:top;
+    font-size: 30px;
+}
+
+td{
+    font-size: 30px;
 }
