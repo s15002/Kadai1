@@ -1,0 +1,20 @@
+@charset "Shift_JIS";
+
+html,body {
+    background-color:black;
+}
+
+
+caption {
+    margin:0 0 1em 0;
+    text-align:left;
+    font-weight:bold;
+}
+
+
+th {
+    padding-right:0.5em;
+    font-style:italic;
+    text-align:right;
+    vertical-align:top;
+}
